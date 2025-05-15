@@ -1,0 +1,6 @@
+need to push to git
+need to create function to verify each entry has all correct fields outside of dbms manager
+need to test storing contacts
+need to create twilio integration
+
+note for pushing
